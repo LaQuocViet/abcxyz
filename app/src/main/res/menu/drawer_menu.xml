@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/chart"
+        android:icon="@mipmap/chart"
+        android:title="Chart"/>
+    <item android:id="@+id/categories"
+        android:icon="@mipmap/category"
+        android:title="Categories"/>
+    <item android:id="@+id/export"
+        android:icon="@mipmap/export"
+        android:title="Export"/>
+    <item android:id="@+id/setting"
+        android:icon="@mipmap/setting"
+        android:title="Setting"/>
+    <item android:id="@+id/rateus"
+        android:icon="@mipmap/rate"
+        android:title="Rate Us"/>
+    <item android:id="@+id/about"
+        android:icon="@mipmap/about"
+        android:title="About"/>
+</menu>
